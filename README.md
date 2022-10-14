@@ -5,9 +5,8 @@
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
 root = 7
-
 # 
- 5 7'den küçük sola koyulur
+5 7'den küçük sola koyulur
                   7
                  /  
                 5 
@@ -53,7 +52,7 @@ root = 7
  
  
  #
-  0 7 den küçük soldan devam  5'ten küçük soldan devam 1'den küük sola koyulur
+ 0 7 den küçük soldan devam  5'ten küçük soldan devam 1'den küük sola koyulur
  
  
              7
@@ -65,7 +64,6 @@ root = 7
      0   3
      
 #
-
 9 7'den büyük sağdan devam 8'den büyük sağa koyulur
  
             7
