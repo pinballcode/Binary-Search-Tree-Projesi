@@ -7,11 +7,13 @@
 root = 7
 # 
 5 7'den küçük sola koyulur
+                 
                   7
                  /  
                 5 
 #                
 1 7'den küçük soldan devam 5'ten küçük sola koyulur           
+                 
                   7
                  / 
                 5
@@ -55,9 +57,9 @@ root = 7
  0 7 den küçük soldan devam  5'ten küçük soldan devam 1'den küük sola koyulur
  
  
-             7
-          /   \
-         5     8
+           7
+          / \
+         5   8
         / \      
        1   6     
       / \
@@ -76,11 +78,12 @@ root = 7
      
 # 
 4 7'den küçük soldan devam 5'ten küçük soldan devam 1'den büyük sağdan devam 3'den büyük sağa koyulur
-            7
-          /  \
-         5    8
-        / \    \  
-       1   6    9 
+           
+           7
+          / \
+         5   8
+        / \   \  
+       1   6   9 
       / \
      0   3
           \
@@ -90,10 +93,10 @@ root = 7
 2 7'den küçük soldan devam 5'ten küçük soldan devam 1'den büyük sağdan devam 3'den küçük sola koyulur
 
            7
-          /  \
-         5    8
-        / \    \  
-       1   6    9 
+          / \
+         5   8
+        / \   \  
+       1   6   9 
       / \
      0   3
         / \
